@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Schlaflos wegen dir
+
+This log tracks the cryptographic history and versioning for the song **Schlaflos wegen dir** (schlaflos-wegen-dir).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T07:33:27.443066 | `v1` | `2d759403a3761818b3b71add4e79c398e501f7f4a82e2e6a74a1cca39ad333bc` | `94cb848dbb6ce23fb04934ee3ec3d0210ee689b649a951a1ec2ad885ea0517fd` | `2026-06-27_schlaflos-wegen-dir-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/schlaflos-wegen-dir/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Schlaflos wegen dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schlaflos-wegen-dir/) |
+| **Get License** | [Official Music Licensing for Schlaflos wegen dir](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/schlaflos-wegen-dir/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Schlaflos wegen dir, Babe, tausend Gedanken im Loop
+> Fahr' durch die City bei Nacht, suche nur nach deinem Mood
+> Rote Lichter, schwarzer Benz, doch mein Seat bleibt leer
+> Brauch' deinen Body an mei'm, Babe, ich will immer mehr.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
@@ -107,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2d759403a3761818b3b71add4e79c398e501f7f4a82e2e6a74a1cca39ad333bc` |
 | **Timestamp** | June 27, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
